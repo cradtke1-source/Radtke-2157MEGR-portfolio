@@ -5,12 +5,13 @@ theme:
   name: material
   palette:
     primary: green
+   font:
+    text: Inter              # ← body text font
+    code: Roboto Mono        # ← code font
   features:
     - navigation.instant
     - navigation.tracking
-  font:
-    text: Roboto          # body text
-    code: Roboto Mono     # code blocks
+  
 nav:
   - Home: index.md
   - About Me: aboutme/index.md
