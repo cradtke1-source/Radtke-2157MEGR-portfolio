@@ -4,11 +4,14 @@ site_description: Design portfolio documentation, built with the Analyze / Decid
 theme:
   name: material
   palette:
-    primary: Blurple
+    primary: green
   features:
     - navigation.instant
     - navigation.tracking
-
+  name: material
+  font:
+    text: Comic Sans          # body text
+    code:      # code blocks
 nav:
   - Home: index.md
   - About Me: aboutme/index.md
