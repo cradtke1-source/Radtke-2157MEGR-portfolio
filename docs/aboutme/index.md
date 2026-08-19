@@ -1,5 +1,5 @@
-About Me
-Cooper Radtke
+
+My name is Cooper Radtke
 
 I am a mechanical engineering student developing my skills in engineering design, problem solving, analysis, and technical communication. I chose mechanical engineering because it is the most broad school of engineering. Mechanical engineering combines mathematics, physics, creativity, and hands-on problem solving, which makes it a field that fits the way I approach challenges. Through my coursework and projects, I am learning how to move from an initial problem or requirement to a design that can be analyzed, tested, and improved.
 
