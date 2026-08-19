@@ -5,6 +5,9 @@ theme:
   name: material
   palette:
     primary: green
+  font:
+    text: Inter          # ← changes the main text font
+    code: Roboto Mono    # ← changes the code font
   features:
     - navigation.instant
     - navigation.tracking
