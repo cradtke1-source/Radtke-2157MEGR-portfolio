@@ -8,10 +8,9 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-  name: material
   font:
-    text: Comic Sans          # body text
-    code:      # code blocks
+    text: Roboto          # body text
+    code: Roboto Mono     # code blocks
 nav:
   - Home: index.md
   - About Me: aboutme/index.md
