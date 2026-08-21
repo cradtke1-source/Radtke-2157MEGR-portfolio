@@ -9,24 +9,21 @@ a. The primary mechanical function of the extendable box cutter is to transmit a
 b. The dominant behavior during cutting is a shear process at the blade edge, but the force the user must apply is governed by the simple lever/force-balance relation at the contact point:
 force provided by the user times distance from grip center to the blade tip = cutting resistance force at the material times length of blade extending beyond the housing. When the blade is retracted or extended, the change in length of blade extending beyond the housing directly changes the mechanical advantage.
 The model assumes the blade remains rigid (negligible bending) and that the housing does not deform under normal hand loads, so all motion is pure translation of the blade carrier.
-c. Component Geometry → Function
-(Take three clear photographs and place the descriptions directly under each.)
+
+c.
 1. Handle / Housing
+<img width="3000" height="4000" alt="housing" src="https://github.com/user-attachments/assets/d8e3a02d-b69f-4036-95c2-d6b000863848" />
 The elongated hollow body provides a grip surface and contains linear guide rails. Its length and cross-section set the moment arm that multiplies the user’s hand force and also limit how far the blade can travel. The front aperture is sized just large enough for the blade, preventing lateral play that would cause the edge to wander.
 2. Blade
+<img width="3000" height="4000" alt="blade" src="https://github.com/user-attachments/assets/1fac9892-0da1-420b-90a2-0932585eb4ca" />
 A thin, trapezoidal hardened-steel plate with a single ground cutting edge. The acute edge angle concentrates stress so that the material fails in shear at low applied force. Notches or holes near the rear edge engage the carrier, locking the blade against pull-out forces during cutting.
-3. Slider / Blade Carrier
+3. Slider / Blade Carrier 
+<img width="3000" height="4000" alt="slider" src="https://github.com/user-attachments/assets/66822d5b-c767-4cf8-87cf-cba71cb091a0" />
 A moving block that holds the blade and rides in the housing rails. Its external thumb pad and internal locking teeth allow the user to position the blade at discrete extension lengths and then lock it against the cutting reaction force. The geometry of the teeth and the spring (if present) determines whether the blade stays extended under load or auto-retracts.
-d. Patent Research
-Patent example
-US10994428B2– “Retractable utility knife”
-Inventor: Robert Joseph Gallegos,Thomas John Scimone, Scot Herbst
-i. Two alternative solutions that perform the same primary function
 
-Fixed-blade utility knife (non-retractable) – blade permanently exposed.
-Snap-off segmented blade knife (e.g., OLFA style) – blade advances by breaking off dull segments rather than sliding a single blade.
-
-ii. One clear design decision and reasoning
+d. I used patent example US10994428B2– “Retractable utility knife”
+Inventor: Robert Joseph Gallegos, Thomas John Scimone, Scot Herbst
+Two alternative solutions that perform the same primary function are, a fixed-blade utility knife (non-retractable) – blade permanently exposed, and a snap-off segmented blade knife (e.g., OLFA style) – blade advances by breaking off dull segments rather than sliding a single blade.
 The original engineer chose an auto-retracting spring-loaded carrier instead of a pure friction lock. This decision prioritizes safety: the blade returns inside the housing as soon as the cutting load is removed, reducing the chance of accidental contact. The trade-off is added part count and a small continuous spring force that the user must overcome to keep the blade extended.
 
 ## Decide
