@@ -14,12 +14,14 @@ c.
 1. Handle / Housing
 <img width="3000" height="4000" alt="housing" src="https://github.com/user-attachments/assets/d8e3a02d-b69f-4036-95c2-d6b000863848" />
 The elongated hollow body provides a grip surface and contains linear guide rails. Its length and cross-section set the moment arm that multiplies the user’s hand force and also limit how far the blade can travel. The front aperture is sized just large enough for the blade, preventing lateral play that would cause the edge to wander.
+
 2. Blade
 <img width="3000" height="4000" alt="blade" src="https://github.com/user-attachments/assets/1fac9892-0da1-420b-90a2-0932585eb4ca" />
 A thin, trapezoidal hardened-steel plate with a single ground cutting edge. The acute edge angle concentrates stress so that the material fails in shear at low applied force. Notches or holes near the rear edge engage the carrier, locking the blade against pull-out forces during cutting.
+
 3. Slider / Blade Carrier 
 <img width="3000" height="4000" alt="slider" src="https://github.com/user-attachments/assets/66822d5b-c767-4cf8-87cf-cba71cb091a0" />
-A moving block that holds the blade and rides in the housing rails. Its external thumb pad and internal locking teeth allow the user to position the blade at discrete extension lengths and then lock it against the cutting reaction force. The geometry of the teeth and the spring (if present) determines whether the blade stays extended under load or auto-retracts.
+A moving block that holds the blade and rides in the housing rails. Its external thumb pad and internal locking teeth allow the user to position the blade at discrete extension lengths and then lock it against the cutting reaction force. The geometry of the teeth determines whether the blade stays extended under load or auto-retracts.
 
 d. I used patent example US10994428B2– “Retractable utility knife”
 Inventor: Robert Joseph Gallegos, Thomas John Scimone, Scot Herbst
