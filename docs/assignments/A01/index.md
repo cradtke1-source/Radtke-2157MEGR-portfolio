@@ -19,19 +19,20 @@ d. Professional tone
 The language uses a first-person reflective register with informal constructions like “thrilled to become,” “got me in trouble,” “IKEA principle”. Technical observations remain embedded in autobiographical narrative rather than presented as standalone engineering statements suitable for an employer.
 
 
-Neal Zalomek (MEGR 2156 Sophomore Design ePortfolio)
+Frederick Wachter (GitHub-hosted)
 
 a. Navigability
-The site uses the default Canvas ePortfolio  A reader can locate any assignment using the side headings in under 60 seconds.
+Primary navigation is provided by a set of dots at the bottom of the page rather than a persistent menu.  A reader can locate any assignment using the side headings in under 60 seconds.
 
 b. Reproducibility
-The command hook analysis describes geometric features and states the manufacturing method and material class. It omits dimensions, load ratings, adhesive shear values, stress calculations, and process parameters. A colleague could not reproduce the geometric or functional claims from the documentation alone.
+Project descriptions include the author’s role, tasks performed, and external links. Quantitative data, decision matrices, and full constraint sets are not present on the site itself; a colleague would need the linked material to attempt reproduction.
+c. Evidence of reasoning
 
 c. Evidence of reasoning
-The text states functional conclusionsand links two design patents. It does not record alternatives evaluated, quantitative selection criteria, rejected options, or the step-by-step decision process that produced the described geometry.
+Each project entry states the work completed and the author’s responsibilities. The sequence of alternatives evaluated and the criteria used to select the final approach are not recorded on the portfolio pages.
 
 d. Professional tone
-The language is written in a first-person reflective register that includes personal enthusiasm (“I am excited…,” “I was thrilled about”) and autobiographical project summaries. Technical observations remain embedded inside narrative passages rather than presented as isolated, neutral engineering statements of the register expected in a document submitted to an employer.
+The language is concise and focuses on technical contributions. Sentence structure and word choice align with the register expected in a document submitted to an employer reviewing engineering experience.
 
 Product analysis
 
