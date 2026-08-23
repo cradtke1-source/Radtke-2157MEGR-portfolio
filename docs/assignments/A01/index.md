@@ -45,7 +45,7 @@ A moving block that holds the blade and rides in the housing rails. Its external
 
 d. I used patent example US10994428B2– “Retractable utility knife”
 Inventor: Robert Joseph Gallegos, Thomas John Scimone, Scot Herbst
-Two alternative solutions that perform the same primary function are, a fixed-blade utility knife (non-retractable) – blade permanently exposed, and a snap-off segmented blade knife – blade advances by breaking off dull segments rather than sliding a single blade.
+Two alternative solutions that perform the same primary function are, a fixed-blade utility knife (non-retractable) with blade permanently exposed, and a snap-off segmented blade knife where the blade advances by breaking off dull segments rather than sliding a single blade.
 The original engineer chose an auto-retracting spring-loaded carrier instead of a pure friction lock. This decision prioritizes safety: the blade returns inside the housing as soon as the cutting load is removed, reducing the chance of accidental contact. The trade-off is added part count and a small continuous spring force that the user must overcome to keep the blade extended.
 
 ## Decide
