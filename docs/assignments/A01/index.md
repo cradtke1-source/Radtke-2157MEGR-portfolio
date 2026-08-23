@@ -4,6 +4,17 @@
 
 
 ## Analyze
+URL: https://instructure.charlotte.edu/eportfolios/4667
+a. Navigability
+The site relies on the default Canvas ePortfolio navigation. At the time of review the landing page was empty. A reader can locate any assignment including the About Me page in under 60 seconds using the side menus.
+b. Reproducibility
+The waffle-maker geometric discussion names part numbers and functional intent but omits dimensions, tolerances, material specifications, and load cases. The robotics experience statements list outcomes without CAD parameters, constraint sets, or iteration records. A colleague could not reproduce the work from the documentation alone.
+c. Evidence of reasoning
+Conclusions are stated (handle geometry improves safety and access; response to failure defines an engineer) more frequently than the decision process that produced them. Alternatives considered, quantitative selection criteria, and explicit trade-off evaluations are absent.
+d. Professional tone
+The language uses a first-person reflective register with informal constructions like “thrilled to become,” “got me in trouble,” “IKEA principle”. Technical observations remain embedded in autobiographical narrative rather than presented as standalone engineering statements suitable for an employer.
+
+Product analysis
 a. The primary mechanical function of the extendable box cutter is to transmit a controlled cutting force from the user’s hand through a sliding blade so that a thin, hardened edge can shear sheet materials (cardboard, tape, plastic film) while the unused portion of the blade remains enclosed inside the handle for safety.
 
 
