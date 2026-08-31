@@ -27,7 +27,8 @@ To find the area of a pin in a single shear pin connection I needed to use my kn
 ## Step 3 CAD Process and Showcase
 <img width="1917" height="1091" alt="pin radius" src="https://github.com/user-attachments/assets/d943eb1f-8222-432a-b5c7-36108ddb5295" />
 <img width="1917" height="1142" alt="pin length" src="https://github.com/user-attachments/assets/d01f71c9-1d29-4465-98ab-3186e1e75311" />
-<img width="1907" height="1132" alt="pin mass" src="https://github.com/user-attachments/assets/8f7d040c-4d19-4f2d-831f-651f9a37d111" />
+<img width="1905" height="1137" alt="image" src="https://github.com/user-attachments/assets/1527220b-8987-481c-9b13-becfccd4dc7f" />
+
 
 
 
