@@ -2,7 +2,7 @@
 
 ## Step 1 Truss Geometry
 
-For assignmengt 2 I was assigned this set of points and connections and tasked with making a truss for them.
+For Assignment 2 I was assigned this set of points and connections and tasked with making a truss for them.
 
 <img width="317" height="215" alt="image" src="https://github.com/user-attachments/assets/a51dfc2d-5538-4807-b10e-f7766c1099c5" />
 
@@ -13,6 +13,7 @@ P was set, by me, to 25 kN. a = .4 m, b = .3 m. Point A is a pin and point B is 
 
 I determined that my largest force is 41.734 kN and to find the cross sectional area of the beam I needed to use my known factors, the max force, saftey factor, density of steel and yield strength of steel (317 mpa) to find  the cross section and approximate weight of the truss.
 
+<img width="922" height="712" alt="image" src="https://github.com/user-attachments/assets/52200c0f-ac56-4b5e-88a2-60ec71eb9ee8" />
 
 ## Step 2 Pin Calculations
 
