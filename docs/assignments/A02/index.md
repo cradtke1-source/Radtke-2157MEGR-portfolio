@@ -29,7 +29,7 @@ To find the area of a pin in a single shear I needed to use my known factors, th
 <img width="1917" height="1142" alt="pin length" src="https://github.com/user-attachments/assets/d01f71c9-1d29-4465-98ab-3186e1e75311" />
 <img width="1905" height="1137" alt="image" src="https://github.com/user-attachments/assets/1527220b-8987-481c-9b13-becfccd4dc7f" />
 <img width="595" height="446" alt="image" src="https://github.com/user-attachments/assets/59f40e96-6e1c-4727-996a-2cdcb6a28ffd" />
-
+For me modeling the truss wast the most difficult part, so I started with the pin. Using the area I could find the radius then the diameter and using the square fo the area of the struss cross section I found the length. Combining all of this together and doing the mass simulation resulted in a percent difference of 
 <img width="1912" height="1096" alt="truss dimensions" src="https://github.com/user-attachments/assets/41ef51e3-16e2-4730-ba73-5a9246aab770" />
 <img width="1907" height="1140" alt="truss weight" src="https://github.com/user-attachments/assets/55489c27-fa00-4e37-8277-acf7d1fd24c7" />
 
