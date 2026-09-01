@@ -50,6 +50,7 @@ Taking the truss from a sketch to a 3d model with weldments took several tutoria
 In this assignment I learned that thinking ahead is very important for making things on time. I did not start to install Solidworks until saturday and had connectivity and downloading issuses that stopped me from working on the models up until sunday. I also learned pencil and paper is not an ideal medium for working in my case because I have very bad handwriting due to dexterity issues, in the future I want to get either a tablet or type up my work for legibility of future assignments. The problem is non keyboard symbols and diagrams still have to be drawn and scanned. In total I spent about 10 hours on this project.
 
 [download][trussnstuff.zip](https://github.com/user-attachments/files/31668087/trussnstuff.zip)
+
 [download][finished pin.zip](https://github.com/user-attachments/files/31668096/finished.pin.zip)
 
  
