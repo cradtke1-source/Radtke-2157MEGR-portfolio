@@ -39,6 +39,8 @@ For me modeling the truss was the most difficult part, so I started with the pin
 
 <img width="1907" height="1140" alt="truss weight" src="https://github.com/user-attachments/assets/55489c27-fa00-4e37-8277-acf7d1fd24c7" />
 
+Taking the truss from a sketch to a 3d model with weldments took several tutorials and forums to complete. I spent multiple hours making a weldment profile of a 21.46mm by 21.46mm solid square that would load into the weldment screen and apply correctly to the sketch. When this was complete I was extremly happy to see that the weight simulation only resulted in a percent difference of 6.18%
+
 
 
 
