@@ -33,7 +33,7 @@ To find the area of a pin in a single shear I needed to use my known factors, th
 
 <img width="595" height="446" alt="image" src="https://github.com/user-attachments/assets/59f40e96-6e1c-4727-996a-2cdcb6a28ffd" />
 
-For me modeling the truss was the most difficult part, so I started with the pin. Using the area I could find the radius then the diameter and using the square fo the area of the struss cross section I found the length. Combining all of this together and doing the mass simulation resulted in a percent difference of 14.67%. this could be atrributed to how fast and loose I played it with sig figs, or my misunderstanding of the material selection (type A2 tool steel in solidworks).
+For me modeling the truss was the most difficult part, so I started with the pin. Using the area I could find the diameter and radius and using the square for the area of the truss cross section I found the length. Combining all of this together and doing the mass simulation resulted in a percent difference of 14.67% between the calculated and actual pin weights. This could be atrributed to how fast and loose I played it with sig figs, or my misunderstanding of the material selection (type A2 tool steel in solidworks) and what that could bring.
 
 <img width="1912" height="1096" alt="truss dimensions" src="https://github.com/user-attachments/assets/41ef51e3-16e2-4730-ba73-5a9246aab770" />
 
