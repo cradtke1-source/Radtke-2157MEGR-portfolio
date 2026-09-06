@@ -21,7 +21,7 @@ Running the simulation gave me this Von Mises curve the yield strength of the be
 
 <img width="1917" height="971" alt="deflection in imperial" src="https://github.com/user-attachments/assets/1c569a13-b69d-4aa5-a14a-810f0de6e4b4" />
 
-Next the deflection resulted in a value of 0.008970 inches which was under max of 0.009 inches.
+Next the deflection resulted in a value of 0.008970 inches which was under the max of 0.009 inches.
 
 
 
