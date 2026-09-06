@@ -35,4 +35,6 @@ I got a sub 1% difference which is very good. I personally would pick the simula
 For the hole question I got a new psi which satisfies the 40000 psi maximum and a saftey factor of 2.1.
 ## Step 4
 This took me about 4 straight hours to complete. The only mistake I made was initially have my FEA readout in metric and not catching it, which made me panic and redo my bar.
+[download][real Bar sim.zip](https://github.com/user-attachments/files/31873686/real.Bar.sim.zip)
+
 
