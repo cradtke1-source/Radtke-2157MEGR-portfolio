@@ -1,9 +1,13 @@
 # A4: Motor Mount
 
 ## Step 1
+<img width="752" height="837" alt="image" src="https://github.com/user-attachments/assets/7f9d6d6f-75e7-42b2-bd41-ad4a31253612" />
+<img width="727" height="512" alt="image" src="https://github.com/user-attachments/assets/2088abb7-d418-48f3-9718-84472b58bc55" />
 
 
 ## Step 2
+<img width="747" height="437" alt="image" src="https://github.com/user-attachments/assets/8e897222-3cb0-48d8-8d33-aacc9916b1d7" />
+<img width="732" height="715" alt="image" src="https://github.com/user-attachments/assets/00b4fc30-a747-4f4a-89f0-5dba563e84d5" />
 
 
 ## Step 3
