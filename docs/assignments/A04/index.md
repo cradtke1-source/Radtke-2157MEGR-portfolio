@@ -3,7 +3,8 @@
 ## Step 1
 <img width="752" height="837" alt="image" src="https://github.com/user-attachments/assets/7f9d6d6f-75e7-42b2-bd41-ad4a31253612" />
 <img width="727" height="512" alt="image" src="https://github.com/user-attachments/assets/2088abb7-d418-48f3-9718-84472b58bc55" />
-Writing out my knowns and unkowns 
+
+Writing out my knowns and unkowns and doing the stress and deflection calculations I got a width0f 38 mm and a thickness of 8 mm
 
 
 ## Step 2
@@ -16,6 +17,12 @@ Writing out my knowns and unkowns
 
 
 ## 3D CAD
+I first designed the bracket with an sketch and these parametric equations.
+
+[download]motor_mount_equations (1).zip
+
+Extruding the shape and placeing the holes gave me this final 3D model.
+
 <img width="1421" height="922" alt="image" src="https://github.com/user-attachments/assets/52304573-1e20-46da-aedc-b21e4f19c276" />
 
 ## Communicate time spent
