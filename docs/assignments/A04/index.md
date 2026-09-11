@@ -16,7 +16,12 @@ Writing out my knowns and unkowns
 
 
 ## 3D CAD
+<img width="1421" height="922" alt="image" src="https://github.com/user-attachments/assets/52304573-1e20-46da-aedc-b21e4f19c276" />
 
 ## Communicate time spent
 I spent about 6 hours on this. I really prioritized studying and other homework over this and the lack of attention I paid to this lead to some difficuly with understanding the directions.
+
+[download][motor_mount_.zip](https://github.com/user-attachments/files/32087972/motor_mount_.zip)
+
+[download][motor_mount_equations (1).zip](https://github.com/user-attachments/files/32087870/motor_mount_equations.1.zip)
 
