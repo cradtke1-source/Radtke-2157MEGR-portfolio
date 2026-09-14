@@ -19,7 +19,7 @@ Writing out my knowns and unkowns and doing the stress and deflection calculatio
 ## 3D CAD
 I first designed the bracket with an sketch and these parametric equations.
 
-[download]motor_mount_equations (1).zip
+[download][motor_mount_equations (1).zip](https://github.com/user-attachments/files/32087870/motor_mount_equations.1.zip)
 
 Extruding the shape and placeing the holes gave me this final 3D model.
 
@@ -30,5 +30,5 @@ I spent about 6 hours on this. I really prioritized studying and other homework 
 
 [download][motor_mount_.zip](https://github.com/user-attachments/files/32087972/motor_mount_.zip)
 
-[download][motor_mount_equations (1).zip](https://github.com/user-attachments/files/32087870/motor_mount_equations.1.zip)
+
 
