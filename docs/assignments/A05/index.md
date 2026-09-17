@@ -8,7 +8,8 @@
 
 ## Multiview
 
-<img width="657" height="587" alt="image" src="https://github.com/user-attachments/assets/be7552c0-10fd-46e3-ad93-5998c3435033" />
+<img width="506" height="651" alt="image" src="https://github.com/user-attachments/assets/960172bd-38ae-4d4e-808f-4d5a58adb2f4" />
+
 
 ## Lessons
 
