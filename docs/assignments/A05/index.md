@@ -1,8 +1,24 @@
 # A5 – Bracket
+My objective was to.
+Conduct stress analysis to determine appropriate dimensions for structural features.
 
+Generate free body diagrams (FBDs) to visualize forces and constraints for each feature.\
+
+Identify and document known and unknown variables, assumptions, and algebraic models for stress calculations.
+
+Perform stiffness analysis to establish minimum required dimensions based on deflection constraints.
+
+Compare stress and stiffness analyses to ensure structural integrity and compliance with given constraints.
+
+Create detailed multiview sketches illustrating dimensions derived from both stress and stiffness analyses.
+
+Reflect on and document key engineering lessons learned throughout the process.
 ## Stress
+I chose to work with aluminium and started with part A I drew out the fbd  aswell as writng out the constant knowns and assumptions for the whole design. To determine the required size based on bending stress I modeled it as a canteleiver beam.
+
 <img width="497" height="635" alt="image" src="https://github.com/user-attachments/assets/f71a6c2f-7e27-43d9-8cb5-e8595ce05e28" />
 
+For parts B-E I repeated the same process.
 
 <img width="497" height="635" alt="image" src="https://github.com/user-attachments/assets/24f1c01a-692f-4d04-8258-b63e6488f0b7" />
 
