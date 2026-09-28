@@ -9,7 +9,7 @@ I decided to use the stiffness model for my parametric model. I set the unit sys
 
 To make the model parametric, I created global variables under Tools > Equations for the key dimensions and linked the sketch and extrude dimensions to them. This lets me change the bracket's size by editing a few values instead of redoing each sketch.
 <img width="1197" height="920" alt="image" src="https://github.com/user-attachments/assets/d690f3b6-3f3b-4350-890d-1fb85957e17c" />
-
+ 
 
 ## Analyze
 
