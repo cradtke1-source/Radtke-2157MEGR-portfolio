@@ -17,4 +17,5 @@ To make sure the part met its specified tolerances, I went back through the mode
 
 ## Communicate
 I spent 4 hours making this. Fot the tolerences of my parts is did loose and ointermediate tolerances for most of the faces that interact with the T bar. This is so sliding the bar in and out is easy. If I did tight tolerances the cost of manufacturing would be much higher ansd the fit might not be so easy to use if it's too snug.
-Download [
+Download [[bracketpara.zip](https://github.com/user-attachments/files/32715571/bracketpara.zip)]
+
