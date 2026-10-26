@@ -20,12 +20,31 @@
 ## Second round
 
 ### Coarse
+<img width="1616" height="927" alt="2nd inner coarse setup" src="https://github.com/user-attachments/assets/0d6d51cd-dd07-4a74-aa2d-f9921e0d9ff0" />
+<img width="1606" height="927" alt="2nd coarse stress" src="https://github.com/user-attachments/assets/f0572ed3-5881-4fe6-81ac-11bb276e2c30" />
+<img width="1617" height="941" alt="2nd coarse displacement" src="https://github.com/user-attachments/assets/6737dead-a64c-4fc8-b9ca-b5579bb4552a" />
+
 ### Med
+<img width="1615" height="937" alt="2nd med setup" src="https://github.com/user-attachments/assets/507332ee-1f17-4e03-884e-3b7da04e984a" />
+<img width="1615" height="932" alt="2nd med stress" src="https://github.com/user-attachments/assets/72876cc5-7a7d-45ca-a232-85084c61d991" />
+<img width="1611" height="926" alt="2nd med disp" src="https://github.com/user-attachments/assets/b5165658-56cb-4bd4-bc89-62b3bd62874e" />
+
 ### Fine
+<img width="1616" height="947" alt="2nd fine setup" src="https://github.com/user-attachments/assets/81027629-4f83-40b7-a560-cc05a5484112" />
+<img width="1620" height="955" alt="2nd fine stress" src="https://github.com/user-attachments/assets/0e8c2d2a-def9-4435-9316-e2fef25b8d68" />
+<img width="1622" height="937" alt="2nd fine disp" src="https://github.com/user-attachments/assets/77bee0b4-53e6-4747-b8c8-c26dc80fec05" />
 
 ## Third round
+
 ### Coarse
+
+
+
 ### Med
+
+
+
+
 ### Fine
 
 ## Communicate
