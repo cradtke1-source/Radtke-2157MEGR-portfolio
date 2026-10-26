@@ -2,6 +2,7 @@
 # A7 – Bracket FEA
 ## First round
 
+
 ### Coarse
 <img width="1610" height="942" alt="1stinner setup coarse" src="https://github.com/user-attachments/assets/b1d58c6c-b876-42f1-86b5-b02242bbfc4e" />
 <img width="1607" height="931" alt="1st inn coarse strain" src="https://github.com/user-attachments/assets/ceb7aa9b-e92e-4d2f-921b-e0961475b539" />
