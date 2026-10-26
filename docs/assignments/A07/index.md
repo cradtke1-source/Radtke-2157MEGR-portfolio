@@ -1,3 +1,4 @@
+
 # A7 – Bracket FEA
 ## First round
 
@@ -12,8 +13,12 @@
 <img width="1612" height="930" alt="1st inner med displacement" src="https://github.com/user-attachments/assets/6d9c25a5-bc63-48c7-b0d6-9d60545893ee" />
 
 ### Fine
+<img width="1625" height="940" alt="1st inner fine setup" src="https://github.com/user-attachments/assets/22d0d261-8c85-4f17-8319-593eeb2cd9de" />
+<img width="1606" height="932" alt="1st inner fine stress" src="https://github.com/user-attachments/assets/0733ded9-2f74-4f0e-8be8-7001189eedd7" />
+<img width="1616" height="931" alt="1st inner fine displacment" src="https://github.com/user-attachments/assets/77417222-468e-4ecc-9d3a-80e604bd59b2" />
 
 ## Second round
+
 ### Coarse
 ### Med
 ### Fine
