@@ -2,7 +2,7 @@
 # A7 – Bracket FEA
 ## First round
 
-My unmodified part from assignment 6 could not handle the load so I had to do all steps of the inner loop at 25 pounds. the part itself weighed .25 ponds
+My unmodified part from assignment 6 could not handle the load so I had to do all steps of the inner loop at 25 pounds. the part itself weighed .25 pounds
 ### Coarse
 <img width="1610" height="942" alt="1stinner setup coarse" src="https://github.com/user-attachments/assets/b1d58c6c-b876-42f1-86b5-b02242bbfc4e" />
 I had 1478 tris.
@@ -22,7 +22,7 @@ I had 64877 tris.
 <img width="1616" height="931" alt="1st inner fine displacment" src="https://github.com/user-attachments/assets/77417222-468e-4ecc-9d3a-80e604bd59b2" />
 
 ## Second round
-After some thickening of the stem attached to the cylinder the part could finally withstand 500 pounds of force. the new part weight was .26
+After some thickening of the stem attached to the cylinder the part could finally withstand 500 pounds of force. The new part weight was .26 pounds.
 ### Coarse
 <img width="1616" height="927" alt="2nd inner coarse setup" src="https://github.com/user-attachments/assets/0d6d51cd-dd07-4a74-aa2d-f9921e0d9ff0" />
 I had 1460 tris.
