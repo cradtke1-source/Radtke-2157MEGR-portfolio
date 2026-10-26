@@ -1,12 +1,18 @@
 # A7 – Bracket FEA
-## Objective
-### coarse
+## Third round
+### Coarse
+### Med
+### Fine
 
-## Analyze
+## Second round
+### Coarse
+### Med
+### Fine
 
-
-## Decide
-
+## Third round
+### Coarse
+### Med
+### Fine
 
 ## Communicate
 
