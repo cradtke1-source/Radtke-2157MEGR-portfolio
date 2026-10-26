@@ -39,7 +39,8 @@
 ### Coarse
 <img width="1601" height="942" alt="3rd coarse setup" src="https://github.com/user-attachments/assets/84d47195-fca0-47a2-b436-ca5fea2673f7" />
 <img width="1607" height="927" alt="3rd coarse stress" src="https://github.com/user-attachments/assets/c598bca5-7209-4321-b828-1e57da1f5a01" />
-<img width="1601" height="942" alt="3rd coarse setup" src="https://github.com/user-attachments/assets/4475b52d-0f38-40f1-961a-24dcaadd9252" />
+<img width="1612" height="925" alt="3rd coarse disp" src="https://github.com/user-attachments/assets/f93592d5-0303-4485-aa57-1a08c7c614e5" />
+
 
 ### Med
 <img width="1626" height="882" alt="3rd med setup" src="https://github.com/user-attachments/assets/dba1843f-087a-4b41-af24-818fedfee422" />
