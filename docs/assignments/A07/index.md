@@ -63,4 +63,7 @@ I had 19367 tris.
 <img width="1617" height="927" alt="3rd fine disp" src="https://github.com/user-attachments/assets/71c63d6c-0fcb-4f70-8095-5b52c520db3b" />
 
 ## Communicate
+<img width="1270" height="337" alt="image" src="https://github.com/user-attachments/assets/a6b61669-df64-448e-b429-fa0713646558" />
+
+I spent about 6 hours on this assignment spread over a week. Most of the problems came from mistakes made back in assignments in 5 and 6. These problems were so severe I could not proceed with working on the assignment normally.
 
