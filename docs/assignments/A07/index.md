@@ -67,3 +67,6 @@ I had 19367 tris.
 
 I spent about 6 hours on this assignment spread over a week. Most of the problems came from mistakes made back in assignments in 5 and 6. These problems were so severe I could not proceed with working on the assignment normally.
 
+[FEA-TEST1.zip](https://github.com/user-attachments/files/33995300/FEA-TEST1.zip)
+[FEA test 2.zip](https://github.com/user-attachments/files/33995311/FEA.test.2.zip)
+[FEA test 3.zip](https://github.com/user-attachments/files/33995320/FEA.test.3.zip)
