@@ -7,7 +7,8 @@ All necessary math, figures and drawings for the input and output shafts.
 
 ## Journal bearing dimensions
 <img width="386" height="488" alt="image" src="https://github.com/user-attachments/assets/a60cf6b4-7774-4f9a-b141-9f3d9b5d4061" />
-Input bearing math
+Input bearing math.
+
 <img width="390" height="469" alt="image" src="https://github.com/user-attachments/assets/31b04811-53bb-4152-9f82-08e38c99fb13" />
 Output bearing math.
 
