@@ -35,3 +35,7 @@ I decided to fit the two halves together with bolts so accounted for bolt holes.
 
 ## Communicate
 This took me 4 hours to complete. The most difficult thing I had to do was overcome technical issues downlading the preexisting parts from McMaster.
+
+[gearassem (2).zip](https://github.com/user-attachments/files/34227242/gearassem.2.zip)
+
+
