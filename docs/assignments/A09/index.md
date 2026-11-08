@@ -18,3 +18,4 @@
 
 ## Communicate
 This only took me about 3 hours to complete. I organized this assignment in the same order as the design process: givens, free body diagram, algebraic solution, then numeric solution, with each final answer boxed so it can be found quickly. Every section follows the same pattern (belt, shaft, bearing, frame), which makes the calculations easy to compare and check.
+[SY 471.zip](https://github.com/user-attachments/files/34555522/SY.471.zip)
