@@ -72,9 +72,12 @@ In the instructions, it asks for a Multiview sketch to be generated; however, it
  
 <img width="418" height="538" alt="image" src="https://github.com/user-attachments/assets/141c153e-a2f6-44f9-b7ba-a75f0db885ca" />
 
+### Assembly- Cooper R
+
+<img width="400" height="528" alt="image" src="https://github.com/user-attachments/assets/0ef3502b-410a-4635-8084-3214cf8c6f44" />
 
 
-### Design
+### Cost of assembly - Owen S
 
 We researched the costs of commercially available components selected for the tensile tester, including aluminum frame rails, carbon steel Acme lead screws, and 932 bearing bronze flange nuts. All components were selected from McMaster-Carr to ensure compatibility and simplify the assembly process.
 
@@ -100,7 +103,7 @@ Using standardized components reduces custom manufacturing requirements and prov
 
 ---
 
-## Lessons Learned
+## Lessons Learned- Owen S
 
 Throughout this assignment, we developed a better understanding of how mechanical components must function together to create a tensile tester capable of applying a controlled 2 kN load with a safety factor of 4.
 
@@ -110,7 +113,7 @@ We also learned how lead screw dimensions affect linear displacement and rotatio
 
 Overall, this assignment demonstrated that mechanical design is an iterative process requiring calculations, component selection, dimensional verification, and revisions to ensure the completed assembly functions as intended.
 
-### Team Contributions and Time Spent
+### Team Contributions and Time- Spent Owen S
 
 **Total Time Spent: 6 Hours**
 
@@ -123,3 +126,12 @@ The assignment was completed over approximately 6 hours, with responsibilities d
 | Owen Switzer | Tabulated component costs, verified part specifications, and performed quality control of the documentation and selected components. |
 
 Throughout the assignment, we collaborated to ensure that the selected components met the design requirements and that the calculations, drawings, and documentation were consistent.
+
+Assembly download [Frame assem (2) (1).zip](https://github.com/user-attachments/files/34953287/Frame.assem.2.1.zip)
+
+Crosshead dowload[crosshead.prt.zip](https://github.com/user-attachments/files/34953309/crosshead.prt.zip)
+
+McMaster parts list download [95120A119_932 Bearing Bronze Acme Flange Nut.zip](https://github.com/user-attachments/files/34953515/95120A119_932.Bearing.Bronze.Acme.Flange.Nut.zip)
+
+
+
