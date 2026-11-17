@@ -72,7 +72,7 @@ In the instructions, it asks for a Multiview sketch to be generated; however, it
 <img width="418" height="538" alt="image" src="https://github.com/user-attachments/assets/141c153e-a2f6-44f9-b7ba-a75f0db885ca" />
 
 ## Assembly- Cooper R
-Since the cross head was designed first I needed to pick parts that could accomodate its size. From earlier diagrams I had decided the entire structure was at most 2 ft tall.
+Since the cross head was designed first I needed to pick parts that could accomodate its size. From earlier diagrams I had decided the entire structure was at most 2 ft tall. Additionally the dimensions of Bobby's cross head meand that the inner width of the frame must at leastr be 1 ft wide. I picked the frames accordingly and the rest of the parts fell into place.
 
 <img width="400" height="528" alt="image" src="https://github.com/user-attachments/assets/0ef3502b-410a-4635-8084-3214cf8c6f44" />
 
