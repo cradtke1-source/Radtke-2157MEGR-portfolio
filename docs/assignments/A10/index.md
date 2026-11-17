@@ -1,6 +1,6 @@
 # A10 – Lead Screw Translating System
 
-## Lead screw design - Cooper Radtke
+## Lead screw design - Cooper R
 Our goal is to design and build a mechanically driven tensile tester capable of applying up to 2 kN axial tensile load with a controllable crosshead speed from 1 to 50 mm/min. This is to be done with 2 screws that are at minimum 18 inches long. All calculations must use a safety factor of 4. To design the lead screw I first needed to find diameter. I compiled knowns and unknowns, drew an FBD and solved algebraically and numerically to get a diameter of .38 inches.
 
 
