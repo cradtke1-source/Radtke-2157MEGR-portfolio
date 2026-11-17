@@ -12,7 +12,7 @@ I repeated this process twice for the rotational speed and torque and got a rang
 <img width="376" height="500" alt="image" src="https://github.com/user-attachments/assets/5c7bcae4-fdc1-427b-a7c5-6964d2355347" />
 
 This lead me to select a 5/8 -8 Carbon steel lead screw, part number 989335A914, as the desired screw choice.
-## Analyze
+## Selecting nut and flange - Bobby D
 The lead Screw was chosen to be 5/8 -8 Carbon steel lead screw with the part number 989335A914. For the nut, it would require the corresponding nut with the same specifications; the material is already chosen to be bronze, with all further testing to ensure that the given thread size for the bolt won’t fail under the given load. The image below shows the part on McMaster-Carr where the design specifications are given along with the 3D part model. The Thread type is Acme; the inner diameter to the base of the threads is 5/8 in (0.625 in); the total height is 1.25 in; the pitch is 0.125 in; the thread height is half the pitch; and the other measurements are unnecessary for the current calculations. 
 Here is the link to the website below: https://www.mcmaster.com/products/acme-lead-screws/nut-type~externally-threaded/nut-type~flange/material~bronze-1/material~932-bearing-bronze/thread-size~5-8-8/
 
