@@ -6,18 +6,18 @@ Our goal is to design and build a mechanically driven tensile tester capable of 
 
 <img width="601" height="690" alt="image" src="https://github.com/user-attachments/assets/758ca33d-0152-41e9-a00a-7f78156a0bb4" />
 
-I repeated this process twice for the rotational speed and torque and got a range of .032 - 1.59 rpm and 5908 Nmm respectively.
+I repeated this process twice for the rotational speed and torque and got a range of 0.315 - 15.75 rpm and 5908 Nmm respectively.
 
 
 <img width="376" height="500" alt="image" src="https://github.com/user-attachments/assets/5c7bcae4-fdc1-427b-a7c5-6964d2355347" />
 
-This lead me to select a 5/8 -8 Carbon steel lead screw, part number 989335A914, as the desired screw choice.
+This lead me to select a 5/8 -8 Carbon steel lead screw, part number 98935A914, as the desired screw choice.
 
 <img width="1529" height="806" alt="image" src="https://github.com/user-attachments/assets/25e23bce-16c2-4f05-9ca1-74aed89eae7a" />
 
 Details below https://www.mcmaster.com/98935A914/
 ## Selecting nut and flange - Bobby D
-The lead Screw was chosen to be 5/8 -8 Carbon steel lead screw with the part number 989335A914. For the nut, it would require the corresponding nut with the same specifications; the material is already chosen to be bronze, with all further testing to ensure that the given thread size for the bolt won’t fail under the given load. The image below shows the part on McMaster-Carr where the design specifications are given along with the 3D part model. The Thread type is Acme; the inner diameter to the base of the threads is 5/8 in (0.625 in); the total height is 1.25 in; the pitch is 0.125 in; the thread height is half the pitch; and the other measurements are unnecessary for the current calculations. 
+The lead Screw was chosen to be 5/8 -8 Carbon steel lead screw with the part number 98935A914. For the nut, it would require the corresponding nut with the same specifications; the material is already chosen to be bronze, with all further testing to ensure that the given thread size for the bolt won’t fail under the given load. The image below shows the part on McMaster-Carr where the design specifications are given along with the 3D part model. The Thread type is Acme; the inner diameter to the base of the threads is 5/8 in (0.625 in); the total height is 1.25 in; the pitch is 0.125 in; the thread height is half the pitch; and the other measurements are unnecessary for the current calculations.
 Here is the link to the website below: https://www.mcmaster.com/products/acme-lead-screws/nut-type~externally-threaded/nut-type~flange/material~bronze-1/material~932-bearing-bronze/thread-size~5-8-8/
 
 <img width="612" height="370" alt="image" src="https://github.com/user-attachments/assets/784afa12-e997-4bbd-a685-28d1082c689c" />
@@ -36,7 +36,7 @@ The link to the PDF below is given here: https://morganbronze.com/wp-content/upl
 
 
 
-The given Knowns are a safety factor of 4, an allowed stress limit of 20 psi, and a pitch of 0.125 in; the object itself and material is a 5/8 – 8 932 bronze lead screw nut; the force is ½ the given load, and the given load for the assembly as a whole is 2kN. However, all the measurements are already in the US Customary System, so 2kN was converted to 449.62 lbf. The unknown value is a ratio; rather, to ensure that the stress experienced by the nut didn’t exceed the given material, the stress of the bearing nut multiplied by the safety factor, over the allowable stress, has to be less than 1. Using the given equations, the real stress was calculated to 2747.86 lbf*in, well within the stress allow. 
+The given Knowns are a safety factor of 4, an allowed stress limit of 20 ksi, and a pitch of 0.125 in; the object itself and material is a 5/8 – 8 932 bronze lead screw nut; the force is ½ the given load, and the given load for the assembly as a whole is 2kN. However, all the measurements are already in the US Customary System, so 2kN was converted to 449.62 lbf. The unknown value is a ratio; rather, to ensure that the stress experienced by the nut didn’t exceed the given material, the stress of the bearing nut multiplied by the safety factor, over the allowable stress, has to be less than 1. Using the given equations, the real stress was calculated to 2747.86 psi, well within the stress allow.
 
 
 
@@ -55,7 +55,7 @@ The first crosshead dimensional design is based on stress analysis; the base is 
 
 
 
-The second crosshead design is based on the max deflection, which is 0.01mm with a modulus of elasticity of 10,000 ksi, found with an outside source listed at the bottom. All other values remain the same. As the max deflection was given in mm, the deflection was converted to the U.S. customary system of measurement. The deflection in inches was 0.003937 in.
+The second crosshead design is based on the max deflection, which is 0.1mm with a modulus of elasticity of 10,000 ksi, found with an outside source listed at the bottom. All other values remain the same. As the max deflection was given in mm, the deflection was converted to the U.S. customary system of measurement. The deflection in inches was 0.003937 in.
 The height was derived to be 2.702 in.
 
 
@@ -132,6 +132,3 @@ Assembly download [Frame assem (2) (1).zip](https://github.com/user-attachments/
 Crosshead dowload[crosshead.prt.zip](https://github.com/user-attachments/files/34953309/crosshead.prt.zip)
 
 McMaster parts list download [95120A119_932 Bearing Bronze Acme Flange Nut.zip](https://github.com/user-attachments/files/34953515/95120A119_932.Bearing.Bronze.Acme.Flange.Nut.zip)
-
-
-
