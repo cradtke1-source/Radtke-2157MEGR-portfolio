@@ -74,8 +74,52 @@ In the instructions, it asks for a Multiview sketch to be generated; however, it
 
 
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+### Design
 
-## Communicate
+We researched the costs of commercially available components selected for the tensile tester, including aluminum frame rails, carbon steel Acme lead screws, and 932 bearing bronze flange nuts. All components were selected from McMaster-Carr to ensure compatibility and simplify the assembly process.
 
+The custom-designed aluminum crosshead is excluded from the cost analysis, as instructed by the assignment.
+
+### Tabulating Costs
+
+| Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
+|---|---|---|---|---|---|
+| 1 | 2 | Aluminum Frame Rail (4601N78) | $18.72 | $37.44 | [McMaster-Carr](https://www.mcmaster.com/4601N78) |
+| 2 | 2 | Aluminum Frame Rail (4601N73) | $12.01 | $24.02 | [McMaster-Carr](https://www.mcmaster.com/4601N73) |
+| 3 | 2 | 5/8"-8 Carbon Steel Acme Lead Screw, 24" (98935A914) | $9.79 | $19.58 | [McMaster-Carr](https://www.mcmaster.com/98935A914) |
+| 4 | 2 | 5/8"-8 Acme Flange Nut, 932 Bearing Bronze (95120A119) | $138.20 | $276.40 | [McMaster-Carr](https://www.mcmaster.com/95120A119) |
+| | | **Total Cost** | | **$357.44** | |
+
+*Prices are preliminary and exclude shipping and taxes. Lead screw and nut prices are based on previously obtained reference values.*
+
+### Cost Analysis
+
+The estimated total material cost is **$357.44**. The bronze flange nuts represent the largest expense at $276.40, followed by the frame rails at $61.46 and lead screws at $19.58.
+
+Using standardized components reduces custom manufacturing requirements and provides downloadable CAD models. The custom aluminum crosshead is excluded from the cost estimate.
+
+---
+
+## Lessons Learned
+
+Throughout this assignment, we developed a better understanding of how mechanical components must function together to create a tensile tester capable of applying a controlled 2 kN load with a safety factor of 4.
+
+One important lesson involved component compatibility. During the design process, we had to modify the crosshead because its original geometry interfered with a mounting bolt. Although the crosshead satisfied the initial strength and deflection calculations, this issue demonstrated the importance of accounting for mounting hardware and assembly clearances during the design stage.
+
+We also learned how lead screw dimensions affect linear displacement and rotational speed, and how material properties influence the selection of bronze nuts and aluminum structural components. Researching commercially available parts reinforced the importance of balancing cost, manufacturability, and mechanical performance.
+
+Overall, this assignment demonstrated that mechanical design is an iterative process requiring calculations, component selection, dimensional verification, and revisions to ensure the completed assembly functions as intended.
+
+### Team Contributions and Time Spent
+
+**Total Time Spent: 6 Hours**
+
+The assignment was completed over approximately 6 hours, with responsibilities divided among three team members.
+
+| Team Member | Contribution |
+|---|---|
+| Cooper Radtke | Designed the lead screw system, including diameter, rotational speed, and torque calculations. |
+| Bobby Douglas | Designed the crosshead, performed strength and deflection calculations, and selected the bronze nut and flange. |
+| Owen Switzer | Tabulated component costs, verified part specifications, and performed quality control of the documentation and selected components. |
+
+Throughout the assignment, we collaborated to ensure that the selected components met the design requirements and that the calculations, drawings, and documentation were consistent.
