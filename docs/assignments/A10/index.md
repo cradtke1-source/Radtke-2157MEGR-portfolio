@@ -43,8 +43,7 @@ The given Knowns are a safety factor of 4, an allowed stress limit of 20 psi, an
 <img width="454" height="576" alt="image" src="https://github.com/user-attachments/assets/93e65ac2-a118-42a8-9a37-b12fcc67e234" />
 
 
-
-	DESIGN A CROSSHEAD
+## Designing crosshead- Bobby D
 
 In this section, we are tasked with designing a crosshead using simple beam design to calculate the necessary dimensions using the stress and vertical deflection equations. The total load is the same, and Aluminum was chosen as the material because it’s relatively easy to mill and affordable.
 The first crosshead dimensional design is based on stress analysis; the base is 1.65 inches, as the diameter of the nut flange is 1.5, and this leaves 75 thou of clearance on either side. As for the length, none of the previous calculations answered, so the length was decided to be half the length of the Lead screws on either side, or 12 inches. The load multiplied by the safety factor is force P, and the height is the dimension being solved for. And additional documents were used in order to find the Yield strength of aluminum, which is 40 ksi and is listed below.
@@ -72,18 +71,19 @@ In the instructions, it asks for a Multiview sketch to be generated; however, it
  
 <img width="418" height="538" alt="image" src="https://github.com/user-attachments/assets/141c153e-a2f6-44f9-b7ba-a75f0db885ca" />
 
-### Assembly- Cooper R
+## Assembly- Cooper R
+Since the cross head was designed first I needed to pick parts that could accomodate its size. From earlier diagrams I had decided the entire structure was at most 2 ft tall.
 
 <img width="400" height="528" alt="image" src="https://github.com/user-attachments/assets/0ef3502b-410a-4635-8084-3214cf8c6f44" />
 
 
-### Cost of assembly - Owen S
+## Cost of assembly- Owen S
 
 We researched the costs of commercially available components selected for the tensile tester, including aluminum frame rails, carbon steel Acme lead screws, and 932 bearing bronze flange nuts. All components were selected from McMaster-Carr to ensure compatibility and simplify the assembly process.
 
 The custom-designed aluminum crosshead is excluded from the cost analysis, as instructed by the assignment.
 
-### Tabulating Costs
+## Tabulating Costs- Owen S
 
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@ The custom-designed aluminum crosshead is excluded from the cost analysis, as in
 
 *Prices are preliminary and exclude shipping and taxes. Lead screw and nut prices are based on previously obtained reference values.*
 
-### Cost Analysis
+## Cost Analysis- Owen S
 
 The estimated total material cost is **$357.44**. The bronze flange nuts represent the largest expense at $276.40, followed by the frame rails at $61.46 and lead screws at $19.58.
 
@@ -113,7 +113,7 @@ We also learned how lead screw dimensions affect linear displacement and rotatio
 
 Overall, this assignment demonstrated that mechanical design is an iterative process requiring calculations, component selection, dimensional verification, and revisions to ensure the completed assembly functions as intended.
 
-### Team Contributions and Time- Spent Owen S
+## Team Contributions and Time Spent- Owen S
 
 **Total Time Spent: 6 Hours**
 
