@@ -16,12 +16,15 @@ This lead me to select a 5/8 -8 Carbon steel lead screw, part number 989335A914,
 The lead Screw was chosen to be 5/8 -8 Carbon steel lead screw with the part number 989335A914. For the nut, it would require the corresponding nut with the same specifications; the material is already chosen to be bronze, with all further testing to ensure that the given thread size for the bolt won’t fail under the given load. The image below shows the part on McMaster-Carr where the design specifications are given along with the 3D part model. The Thread type is Acme; the inner diameter to the base of the threads is 5/8 in (0.625 in); the total height is 1.25 in; the pitch is 0.125 in; the thread height is half the pitch; and the other measurements are unnecessary for the current calculations. 
 Here is the link to the website below: https://www.mcmaster.com/products/acme-lead-screws/nut-type~externally-threaded/nut-type~flange/material~bronze-1/material~932-bearing-bronze/thread-size~5-8-8/
 
+<img width="612" height="370" alt="image" src="https://github.com/user-attachments/assets/784afa12-e997-4bbd-a685-28d1082c689c" />
+
 
 On the website above, the Yield strength, a necessary upper limit to know, was not given and therefore had to be found on an alternative website. Also important to note as stated on the website above, there are two different types of bronze metals. Doing a little research at concast.com, 932 would function better, as it is the workhorse of industry. While 673 has better stress resistance, 932 self-lubricates, which is important when running up and down the leadscrew, reducing wear. The Yield strength for this specific alloy is 20 ksi.
 The link to the PDF below is given here: https://morganbronze.com/wp-content/uploads/c932_bearing_bronze.pdf
 
 
 
+<img width="468" height="310" alt="image" src="https://github.com/user-attachments/assets/981c07ce-6562-43dd-ac7e-01813abe2348" />
 
 
 
@@ -33,6 +36,7 @@ The given Knowns are a safety factor of 4, an allowed stress limit of 20 psi, an
 
 
 
+<img width="454" height="576" alt="image" src="https://github.com/user-attachments/assets/93e65ac2-a118-42a8-9a37-b12fcc67e234" />
 
 
 
@@ -43,6 +47,7 @@ The first crosshead dimensional design is based on stress analysis; the base is 
  For the stress equation, the height was derived to be 1.4 inches.
 
 
+<img width="458" height="614" alt="image" src="https://github.com/user-attachments/assets/a36d0b07-dba1-480b-8a60-7011dbb9f36c" />
 
 
 
@@ -51,14 +56,17 @@ The second crosshead design is based on the max deflection, which is 0.01mm with
 The height was derived to be 2.702 in.
 
 
+<img width="464" height="617" alt="image" src="https://github.com/user-attachments/assets/05010cd6-fbb1-4ea3-96b7-938cfcb761a4" />
 
 
 
 Before the design phase, using the Master thesis provided as a reference in the resources section of this assignment, I roughly used this image for a design concept before creating the Multiview drawing.
+<img width="360" height="308" alt="image" src="https://github.com/user-attachments/assets/67e467c2-0866-4187-98b5-4dae55825ebc" />
 
 
 In the instructions, it asks for a Multiview sketch to be generated; however, it doesn’t expressly ask for a 3D model to be created, so instead a handmade design was created on paper. However, it’s missing any tolerance, and any holes are made exactly to the size of the 5/8 - 8 nut. All important measurements are included, and front, side, and top views are included along with an orthogonal view, along with units and the Part name. It’s a simple beam with an extra 1.5-inch section at the top to possibly create an insert, depending on the nature of the next assignment. The curved edges are to reduce stress, as was the case in the Bracket design in a previous assignment. The height chosen was based on the vertical deflection, as it met both stress and deflection requirements.
  
+<img width="418" height="538" alt="image" src="https://github.com/user-attachments/assets/141c153e-a2f6-44f9-b7ba-a75f0db885ca" />
 
 
 
