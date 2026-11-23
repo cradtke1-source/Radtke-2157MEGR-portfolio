@@ -12,7 +12,8 @@
 
 The frame retains two uprights, one top rail, a mid-height rail, and a moving crosshead. The clear span of the 40 Series top rail is 304.8 mm. Each lead screw transfers 1,000 N at the 2 kN test load. The analysis assumes 5.908 N·m per motor and a 35 mm screw offset. The required safety factor is 4.
 
-![Front view of the single-rail frame in Onshape](single-rail-assets/A11_Owen3.jpg)
+<img width="1567" height="503" alt="A11_Owen4" src="https://github.com/user-attachments/assets/56b3bcbd-5a73-4dd9-91a1-8bf59545d466" />
+
 
 *Figure 1. Onshape model showing the top rail, corner gussets, and moving crosshead.*
 
