@@ -43,7 +43,8 @@ At a safety factor of 4, the required capacities are 3.89 kN in pull-out and app
 
 The fine-mesh results show a peak von Mises stress of approximately 39 MPa near the left end of the rail. Using the assumed yield strength of 172.37 MPa, the allowable stress for a safety factor of 4 is 43.09 MPa. The resulting top-rail safety factor is approximately 4.42, which meets the requirement for the modeled load case.
 
-(single-rail-assets/A11_Owen4.jpg)
+<img width="655" height="1066" alt="A11_Owen3 (1)" src="https://github.com/user-attachments/assets/ca52b074-b85b-4b2b-a905-8e4d7964e1c4" />
+
 
 *Figure 4. Fine-mesh stress at the critical cross-section and along the rail. The dashed line marks the 43.09 MPa allowable stress.*
 
