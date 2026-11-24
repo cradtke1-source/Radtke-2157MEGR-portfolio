@@ -51,6 +51,7 @@ The fine-mesh results show a peak von Mises stress of approximately 39 MPa near 
 
 
 ## Decide
+<img width="896" height="910" alt="image" src="https://github.com/user-attachments/assets/28e8627f-09da-4dd7-b774-265455f7873d" />
 
 
 ## Communicate
