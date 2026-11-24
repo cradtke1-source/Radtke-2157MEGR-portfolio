@@ -55,9 +55,11 @@ In order to design a bearing mount with an RC3 fit I needed to look through the 
 
 # Justifications 
 Bore    : 0.4375 + 0.0007 = 0.4382 max   |  0.4375 min
+
 Journal : 0.4375 - 0.0006 = 0.4369 max   |  0.4365 min
 
 Min clearance = 0.4375 - 0.4369 = 0.0006 in
+
 Max clearance = 0.4382 - 0.4365 = 0.0017 in
 <img width="896" height="910" alt="image" src="https://github.com/user-attachments/assets/28e8627f-09da-4dd7-b774-265455f7873d" />
 
