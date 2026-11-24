@@ -71,7 +71,7 @@ In order to design a bearing mount with an RC3 fit I needed to look through the 
 | 0.266 in (17/64) | 0.281 in (9/32) |
 | 0.2570 in (F) | 0.2656 in (17/64) |
 
-
+0.281 selected
 
 ## Justification of dimensions
 
