@@ -50,9 +50,17 @@ The fine-mesh results show a peak von Mises stress of approximately 39 MPa near 
 
 
 
-## Decide
+## Bearing mount
 In order to design a bearing mount with an RC3 fit I needed to look through the machinery's handbook for equations. Referencing Table:8a  I listed my known outer diameter and needed tolerances for the design. From here I drew the FBD and proceeded to solve for the thickness and diameter of the inner wall using torque analysis equations.
 <img width="896" height="910" alt="image" src="https://github.com/user-attachments/assets/28e8627f-09da-4dd7-b774-265455f7873d" />
 
+## Tabulating costs
+| Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
+|---|---|---|---|---|---|
+| 1 | 2 | Aluminum Frame Rail (4601N78) | $18.72 | $37.44 | [McMaster-Carr](https://www.mcmaster.com/4601N78) |
+| 2 | 2 | Aluminum Frame Rail (4601N73) | $12.01 | $24.02 | [McMaster-Carr](https://www.mcmaster.com/4601N73) |
+| 3 | 2 | 5/8"-8 Carbon Steel Acme Lead Screw, 24" (98935A914) | $9.79 | $19.58 | [McMaster-Carr](https://www.mcmaster.com/98935A914) |
+| 4 | 2 | 5/8"-8 Acme Flange Nut, 932 Bearing Bronze (95120A119) | $138.20 | $276.40 | [McMaster-Carr](https://www.mcmaster.com/95120A119) |
+| | | **Total Cost** | | **$357.44** | |
 
 ## Communicate
