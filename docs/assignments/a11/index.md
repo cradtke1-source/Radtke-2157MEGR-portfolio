@@ -48,6 +48,9 @@ The fine-mesh results show a peak von Mises stress of approximately 39 MPa near 
 
 *Figure 4. Fine-mesh stress at the critical cross-section and along the rail. The dashed line marks the 43.09 MPa allowable stress.*
 
+The top rail was restrained at both ends and loaded with 1,000 N downward at each mount, plus the motor torque and screw-offset moment. The simulation converged. The deformation is exaggerated for visibility.
+
+![Top rail deformation in Onshape](A11_Owen9.jpg)
 
 
 ## Bearing mount
