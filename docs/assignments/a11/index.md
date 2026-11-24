@@ -23,7 +23,8 @@ The frame retains two uprights, one top rail, a mid-height rail, and a moving cr
 
 The unknowns are the joint reactions and the shear, pull-out, and slip capacity of the connector hardware. Symmetry gives a vertical reaction of 1,000 N at each end. Using a reaction spacing of 344.8 mm, the two motor torques produce a transverse reaction of 34.27 N at each end, acting in opposite directions. The 35 mm offset of each screw load produces a roll moment of 35 N·m at each end.
 
-![Hand-drawn top-rail free-body diagram in elevation and plan](single-rail-assets/A11_Owen1.jpg)
+<img width="2160" height="2880" alt="A11_Owen1" src="https://github.com/user-attachments/assets/71075666-36cd-43ed-919e-f3f3aa4c2666" />
+
 
 *Figure 2. Top-rail free-body diagram showing the vertical loads, motor torques, and transverse reactions.*
 
@@ -33,7 +34,7 @@ One 80/20 40-4336 gusset is proposed at each top corner. It uses M8 hardware in 
 
 At a safety factor of 4, the required capacities are 3.89 kN in pull-out and approximately 2.00 kN in shear per bolt. The combined capacity and resistance to slipping along the upright T-slot still need verification.
 
-![Hand calculations for frame reactions, connector loads, and top-rail safety factor](single-rail-assets/A11_Owen2.jpg)
+(single-rail-assets/A11_Owen2.jpg)
 
 *Figure 3. Hand calculations for the joint reactions, preliminary connector loads, and top-rail safety factor.*
 
@@ -41,7 +42,7 @@ At a safety factor of 4, the required capacities are 3.89 kN in pull-out and app
 
 The fine-mesh results show a peak von Mises stress of approximately 39 MPa near the left end of the rail. Using the assumed yield strength of 172.37 MPa, the allowable stress for a safety factor of 4 is 43.09 MPa. The resulting top-rail safety factor is approximately 4.42, which meets the requirement for the modeled load case.
 
-![Von Mises stress at the peak-stress cross-section and along the top rail](single-rail-assets/A11_Owen4.jpg)
+(single-rail-assets/A11_Owen4.jpg)
 
 *Figure 4. Fine-mesh stress at the critical cross-section and along the rail. The dashed line marks the 43.09 MPa allowable stress.*
 
