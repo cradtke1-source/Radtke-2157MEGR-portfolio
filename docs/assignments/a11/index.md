@@ -34,7 +34,8 @@ One 80/20 40-4336 gusset is proposed at each top corner. It uses M8 hardware in 
 
 At a safety factor of 4, the required capacities are 3.89 kN in pull-out and approximately 2.00 kN in shear per bolt. The combined capacity and resistance to slipping along the upright T-slot still need verification.
 
-(single-rail-assets/A11_Owen2.jpg)
+<img width="2160" height="2880" alt="A11_Owen2" src="https://github.com/user-attachments/assets/86c4a9d9-23b8-4f2e-8fcf-ececdff7f82d" />
+
 
 *Figure 3. Hand calculations for the joint reactions, preliminary connector loads, and top-rail safety factor.*
 
