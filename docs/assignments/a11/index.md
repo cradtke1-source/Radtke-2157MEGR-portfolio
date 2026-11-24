@@ -53,14 +53,41 @@ The fine-mesh results show a peak von Mises stress of approximately 39 MPa near 
 ## Bearing mount
 In order to design a bearing mount with an RC3 fit I needed to look through the machinery's handbook for equations. Referencing Table:8a  I listed my known outer diameter and needed tolerances for the design. From here I drew the FBD and proceeded to solve for the thickness and diameter of the inner wall using torque analysis equations. 
 
-# Justifications 
-Bore    : 0.4375 + 0.0007 = 0.4382 max   |  0.4375 min
+ 
+## Clearances
 
-Journal : 0.4375 - 0.0006 = 0.4369 max   |  0.4365 min
+### RC3 fit 
 
-Min clearance = 0.4375 - 0.4369 = 0.0006 in
+| Feature | Size (in) | Limits (in) |
+|---|---|---|
+| Bore (hole) | 0.4375 | +0.0007 / −0.0000 → 0.4375 to 0.4382 |
+| Journal (shaft) | 0.4375 | −0.0006 / −0.0010 → 0.4365 to 0.4369 |
+| Clearance | n/a | 0.0006 min, 0.0017 max |
 
-Max clearance = 0.4382 - 0.4365 = 0.0017 in
+### Bolt clearance holes (1/4-20)
+
+| Close fit | Normal fit |
+|---|---|
+| 0.266 in (17/64) | 0.281 in (9/32) |
+| 0.2570 in (F) | 0.2656 in (17/64) |
+
+
+
+## Justification of dimensions
+
+| Dimension | Value | Justification |
+|---|---|---|
+| Journal Ø | 0.4375 in | Below the Acme minor diameter (about 0.480 in), so the thread runs out at a shoulder. Within the 0.40–0.71 in RC3 size range. |
+| Bore depth | 1.00 in | 0.75 in of bearing contact plus 0.25 in end gap for thermal growth and oil. |
+| Bearing length | 0.75 in | L/D ≈ 1.7, inside the usual 1–2 range. Resists tilt without edge loading. |
+| Shoulder stand-off | 0.125 in | Keeps the end floating. Acts as a safety stop if the coupling slips. |
+| Boss Ø | 1.00 in | Leaves a 0.28 in wall around the bore. |
+| Boss height | 1.25 in | 1.00 in bore plus 0.25 in floor. |
+| Base plate | 3.00 × 2.00 × 0.375 in | 2.00 in covers both crossbar rails. 0.50 in edge distance on all bolt holes. |
+| Bolt pattern | 2.000 × 1.000 in | 1.000 in lands bolts on the two slot centerlines. 2.000 in keeps bolt heads clear of the boss. |
+| Axis location | Crossbar centerline | Midway between slot rows. Slot nuts slide, so the block can be aligned to the coupling. |
+| Bolts | 1/4-20 × 3/4 SHCS | Pass the slot lip and fully engage the slot nut. |
+| Vent / oil hole | Ø0.125 in | Prevents air lock in the blind bore. Admits lubricant. |
 <img width="896" height="910" alt="image" src="https://github.com/user-attachments/assets/28e8627f-09da-4dd7-b774-265455f7873d" />
 
 ## Tabulating costs
