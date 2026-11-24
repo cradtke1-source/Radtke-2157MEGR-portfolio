@@ -61,7 +61,7 @@ In order to design a bearing mount with an RC3 fit I needed to look through the 
 | 2 | 2 | Aluminum Frame Rail (4601N73) | $12.01 | $24.02 | [McMaster-Carr](https://www.mcmaster.com/4601N73) |
 | 3 | 2 | 5/8"-8 Carbon Steel Acme Lead Screw, 24" (98935A914) | $9.79 | $19.58 | [McMaster-Carr](https://www.mcmaster.com/98935A914) |
 | 4 | 2 | 5/8"-8 Acme Flange Nut, 932 Bearing Bronze (95120A119) | $138.20 | $276.40 | [McMaster-Carr](https://www.mcmaster.com/95120A119) |
-| 1 | 1 | Stepper motor (6627T671) | $210.56 | [McMaster-Carr] https://www.mcmaster.com/6627T671/ |
+| 1 | 1 | Stepper motor (6627T671) | $210.56 | $210.56 | [McMaster-Carr] https://www.mcmaster.com/6627T671/ |
 | | | **Total Cost** | | **$357.44** | |
 
 ## Communicate
