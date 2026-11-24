@@ -87,7 +87,7 @@ In order to design a bearing mount with an RC3 fit I needed to look through the 
 | Bolt pattern | 2.000 × 1.000 in | 1.000 in lands bolts on the two slot centerlines. 2.000 in keeps bolt heads clear of the boss. |
 | Axis location | Crossbar centerline | Midway between slot rows. Slot nuts slide, so the block can be aligned to the coupling. |
 | Bolts | 1/4-20 × 3/4 SHCS | Pass the slot lip and fully engage the slot nut. |
-| Vent / oil hole | Ø0.125 in | Prevents air lock in the blind bore. Admits lubricant. |
+
 <img width="896" height="910" alt="image" src="https://github.com/user-attachments/assets/28e8627f-09da-4dd7-b774-265455f7873d" />
 
 ## Tabulating costs
