@@ -64,3 +64,4 @@ In order to design a bearing mount with an RC3 fit I needed to look through the 
 | | | **Total Cost** | | **$357.44** | |
 
 ## Communicate
+We collectively worked 12 hours on this project. The most difficult part about working on this project was when multipart questions were split among two people. The frame FEA for example was worked on and developed independently. This resulted in frames of two different constructions. I had to redo my work to realign it with Owen's.
