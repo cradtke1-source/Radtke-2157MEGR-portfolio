@@ -51,7 +51,14 @@ The fine-mesh results show a peak von Mises stress of approximately 39 MPa near 
 
 
 ## Bearing mount
-In order to design a bearing mount with an RC3 fit I needed to look through the machinery's handbook for equations. Referencing Table:8a  I listed my known outer diameter and needed tolerances for the design. From here I drew the FBD and proceeded to solve for the thickness and diameter of the inner wall using torque analysis equations.
+In order to design a bearing mount with an RC3 fit I needed to look through the machinery's handbook for equations. Referencing Table:8a  I listed my known outer diameter and needed tolerances for the design. From here I drew the FBD and proceeded to solve for the thickness and diameter of the inner wall using torque analysis equations. 
+
+# Justifications 
+Bore    : 0.4375 + 0.0007 = 0.4382 max   |  0.4375 min
+Journal : 0.4375 - 0.0006 = 0.4369 max   |  0.4365 min
+
+Min clearance = 0.4375 - 0.4369 = 0.0006 in
+Max clearance = 0.4382 - 0.4365 = 0.0017 in
 <img width="896" height="910" alt="image" src="https://github.com/user-attachments/assets/28e8627f-09da-4dd7-b774-265455f7873d" />
 
 ## Tabulating costs
@@ -67,4 +74,4 @@ In order to design a bearing mount with an RC3 fit I needed to look through the 
 | | | **Total Cost** | | **$1401.44** | |
 
 ## Communicate
-We collectively worked 12 hours on this project. The most difficult part about working on this project was when multipart questions were split among two people. The frame FEA for example was worked on and developed independently by two people. This resulted in frames of two different constructions. I had to redo my work to realign it with Owen's.
+We collectively worked 12 hours on this project. The most difficult part about working on this project was when multipart questions were split among two people. The frame FEA for example was worked on and developed independently by two people. This resulted in frames of two different constructions and the need to realign calculations in favor of one or the others model.
